@@ -19,4 +19,6 @@ Java was built on several fundamental principles that continue to guide its deve
 ## The Java Ecosystem
 What makes Java truly remarkable is not just the language itself but the extensive ecosystem that surrounds it:
 
+## Java Platform Editions
+
 Visit the [Hugo](https://gohugo.io) website!
