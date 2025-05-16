@@ -8,3 +8,7 @@ theme = 'ananke'
 
 [params]
   commentoEnable = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
