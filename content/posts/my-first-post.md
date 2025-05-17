@@ -21,4 +21,8 @@ What makes Java truly remarkable is not just the language itself but the extensi
 
 ## Java Platform Editions
 
+1. Java Standard Edition (Java SE): The core platform containing all of the libraries and APIs that every Java programmer needs.
+2. Java Enterprise Edition (Jakarta EE, formerly Java EE): Built on top of Java SE, it provides additional libraries for developing large-scale, distributed systems.
+3. Java Micro Edition (Java ME): A subset of Java SE designed for mobile devices and embedded systems with limited resources.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
