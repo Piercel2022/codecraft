@@ -21,4 +21,4 @@ What makes Java truly remarkable is not just the language itself but the extensi
 
 ## Java Platform Editions
 
-Visit the [Hugo](https://gohugo.io) website!
+Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
