@@ -20,6 +20,14 @@ theme = 'ananke'
     name = 'Blog'
     pageRef = '/posts'
     weight = 30
+  [[menus.footer]]
+    name = 'Terms'
+    pageRef = '/terms'
+    weight = 10
+  [[menus.footer]]
+    name = 'Privacy'
+    pageRef = '/privacy'
+    weight = 20
 
 [caches]
   [caches.images]
