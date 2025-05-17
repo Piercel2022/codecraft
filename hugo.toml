@@ -3,7 +3,23 @@ languageCode = 'en-us'
 title = 'CodeCraft Chronicles'
 theme = 'ananke'
 
-sectionPagesMenu = 'main'
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/posts'
+    weight = 30
 
 [caches]
   [caches.images]
