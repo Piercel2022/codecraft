@@ -60,5 +60,6 @@ The Java ecosystem boasts powerful development tools including:
  The language has seen significant improvements with recent releases:
 
  - **Lambda Expressions (Java 8):** Enabling functional programming paradigms.
+ - **Modules (Java 9):** Enhancing application security and performance.
 
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
