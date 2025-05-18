@@ -75,4 +75,6 @@ The Java ecosystem boasts powerful development tools including:
 
  + **E-commerce:** Many major e-commerce platforms are built with Java.
 
+ + **Big Data:** Technologies like Hadoop leverage Java for processing massive datasets.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
