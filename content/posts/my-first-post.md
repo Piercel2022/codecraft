@@ -90,4 +90,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **GraalVM:** A universal virtual machine offering improved performance and polyglot programming capabilities.
 
+ - **Project Loom:** Introducing virtual threads for more efficient concurrency.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
