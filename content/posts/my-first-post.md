@@ -67,4 +67,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Pattern Matching (Java 17+):** Making code more concise and readable.
 
+ ## Java in Enterprise
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
