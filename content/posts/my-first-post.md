@@ -88,4 +88,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Cloud-Native Java:** Frameworks like Quarkus and Micronaut optimize Java for cloud environments.
 
+ - **GraalVM:** A universal virtual machine offering improved performance and polyglot programming capabilities.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
