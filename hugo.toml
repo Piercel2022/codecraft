@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://codecraft-chronicles.netlify.app/'
 languageCode = 'en-us'
 title = 'CodeCraft Chronicles'
 theme = 'ananke'
