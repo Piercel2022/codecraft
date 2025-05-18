@@ -45,4 +45,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Spring:** The most popular Java framework, offering modules for dependency injection, web applications, data access, and more.
 
+ - **Hibernate:** An object-relational mapping framework that simplifies database operations.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
