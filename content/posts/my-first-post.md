@@ -86,4 +86,6 @@ The Java ecosystem boasts powerful development tools including:
 
  Java continues to adapt to changing technological landscapes:
 
+ - **Cloud-Native Java:** Frameworks like Quarkus and Micronaut optimize Java for cloud environments.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
