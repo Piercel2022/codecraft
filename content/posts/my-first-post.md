@@ -52,6 +52,7 @@ The Java ecosystem boasts powerful development tools including:
  - **JavaFX:** A set of graphics and media packages for designing desktop applications.
 
  # Java in the Modern World
- 
+
+ Despite being nearly three decades old, Java continues to evolve and remain relevant:
 
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
