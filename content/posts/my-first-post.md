@@ -47,4 +47,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Hibernate:** An object-relational mapping framework that simplifies database operations.
 
+ - **Apache Struts:** A framework for creating enterprise-grade Java web applications.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
