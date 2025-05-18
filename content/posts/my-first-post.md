@@ -10,11 +10,11 @@ Java is one of the most enduring and widely used programming languages in the wo
 ## The Core Principles of Java
 Java was built on several fundamental principles that continue to guide its development:
 
-- **Platform Independence:** "Write Once, Run Anywhere" (WORA) remains Java's most famous promise. The Java Virtual Machine (JVM) allows Java code to run on any device or operating system without modification.
-- **Object-Oriented Design:** Java was designed as a fully object-oriented language from the ground up, making it ideal for building modular, maintainable software systems.
-- **Robustness and Security:** With automatic memory management, strong type checking, and a comprehensive security model, Java minimizes many common programming errors.
-- **Simplicity:** Java was designed to be easier to learn than C++ while maintaining much of its power and functionality.
-- **Multi-threading:** Built-in support for concurrent programming allows developers to create efficient applications that can perform multiple tasks simultaneously.
+1. **Platform Independence:** "Write Once, Run Anywhere" (WORA) remains Java's most famous promise. The Java Virtual Machine (JVM) allows Java code to run on any device or operating system without modification.
+1. **Object-Oriented Design:** Java was designed as a fully object-oriented language from the ground up, making it ideal for building modular, maintainable software systems.
+1. **Robustness and Security:** With automatic memory management, strong type checking, and a comprehensive security model, Java minimizes many common programming errors.
+1. **Simplicity:** Java was designed to be easier to learn than C++ while maintaining much of its power and functionality.
+1. **Multi-threading:** Built-in support for concurrent programming allows developers to create efficient applications that can perform multiple tasks simultaneously.
 
 # The Java Ecosystem
 What makes Java truly remarkable is not just the language itself but the extensive ecosystem that surrounds it:
@@ -27,5 +27,9 @@ The core platform containing all of the libraries and APIs that every Java progr
 Built on top of Java SE, it provides additional libraries for developing large-scale, distributed systems.
 ### Java Micro Edition (Java ME)
 A subset of Java SE designed for mobile devices and embedded systems with limited resources.
+
+# Development Tools
+
+
 
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
