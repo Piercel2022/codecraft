@@ -82,4 +82,6 @@ The Java ecosystem boasts powerful development tools including:
 
  While Kotlin has gained popularity for Android development, Java still powers millions of Android applications worldwide.
 
+ # The Future of Java
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
