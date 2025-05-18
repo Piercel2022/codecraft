@@ -92,4 +92,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Project Loom:** Introducing virtual threads for more efficient concurrency.
 
+ # Conclusion
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
