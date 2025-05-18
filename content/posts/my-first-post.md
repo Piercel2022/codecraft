@@ -49,4 +49,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Apache Struts:** A framework for creating enterprise-grade Java web applications.
 
+ - **JavaFX:** A set of graphics and media packages for designing desktop applications.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
