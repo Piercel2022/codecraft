@@ -73,4 +73,6 @@ The Java ecosystem boasts powerful development tools including:
 
  + **Banking and Finance:** Java's security features make it ideal for financial systems.
 
+ + **E-commerce:** Many major e-commerce platforms are built with Java.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
