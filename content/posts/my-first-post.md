@@ -30,6 +30,7 @@ A subset of Java SE designed for mobile devices and embedded systems with limite
 
 # Development Tools
 
+The Java ecosystem boasts powerful development tools including:
 
 
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
