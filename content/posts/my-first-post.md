@@ -65,4 +65,6 @@ The Java ecosystem boasts powerful development tools including:
 
  - **Records (Java 16):** Simplifying data carrier classes.
 
+ - **Pattern Matching (Java 17+):** Making code more concise and readable.
+
 Visit the [codecraft-chronicles](https://codecraft-chronicles.netlify.app/) website!
