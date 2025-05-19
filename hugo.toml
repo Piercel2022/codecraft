@@ -28,7 +28,24 @@ theme = 'ananke'
     name = 'Privacy'
     pageRef = '/privacy'
     weight = 20
-
+[build]
+  noJSConfigInAssets = false
+  useResourceCacheWhen = 'fallback'
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = false
+  [[build.cacheBusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = '(css|styles|scss|sass)'
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'box'
+      
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
