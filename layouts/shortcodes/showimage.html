@@ -1,0 +1,7 @@
+{{ $src := .Get 0 }}
+{{ $image := resources.Get $src }}
+{{ if $image }}
+  <img src="{{ $image.RelPermalink }}" alt="Java Technology">
+{{ else }}
+  <p style="color:red;">Image not found</p>
+{{ end }}
