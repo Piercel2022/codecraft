@@ -7,4 +7,4 @@ draft = true
 
 # Introduction
 
-Java has remained a cornerstone of 
+Java has remained a cornerstone of enterprise software development since its inception in 1995. Despite the rise of newer languages, Java continues to power mission-critical systems worldwide thanks to its robust design principles.
