@@ -7,10 +7,7 @@ theme = 'ananke'
     name = 'Home'
     pageRef = '/'
     weight = 10
-  [[menus.main]]
-    name = 'Contact'
-    pageRef = '/contact'
-    weight = 20
+ 
   [[menus.main]]
     name = 'About'
     pageRef = '/about'
