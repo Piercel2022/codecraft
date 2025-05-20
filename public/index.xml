@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/post-2/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Java has remained a cornerstone of&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
