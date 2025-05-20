@@ -15,10 +15,6 @@ theme = 'ananke'
     name = 'About'
     pageRef = '/about'
     weight = 30
-  [[menus.main]]
-    name = 'Blog'
-    pageRef = '/posts'
-    weight = 30
   [[menus.footer]]
     name = 'Terms'
     pageRef = '/terms'
