@@ -11,4 +11,4 @@ Java has remained a cornerstone of enterprise software development since its inc
 
 # Write Once, Run Anywhere
 
-Java's most celebrated principle is platform independence.
+Java's most celebrated principle is platform independence. The Java Virtual Machine (JVM) serves as an abstraction layer between code and hardware, allowing developers to write code on one system and run it on any platform with a compatible JVM installation.
