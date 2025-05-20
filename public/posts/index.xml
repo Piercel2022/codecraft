@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/post-2/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Java has remained a cornerstone of enterprise software development since its inception in 1995. Despite the rise of newer languages, Java continues to power mission-critical systems worldwide thanks to its robust design principles. Let&amp;rsquo;s explore the fundamental concepts that make Java not just a language, but a comprehensive platform for building reliable applications.&lt;/p&gt;&#xA;&lt;h1 id=&#34;write-once-run-anywhere&#34;&gt;Write Once, Run Anywhere&lt;/h1&gt;&#xA;&lt;p&gt;Java&amp;rsquo;s most celebrated principle is platform independence.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Java has remained a cornerstone of enterprise software development since its inception in 1995. Despite the rise of newer languages, Java continues to power mission-critical systems worldwide thanks to its robust design principles. Let&amp;rsquo;s explore the fundamental concepts that make Java not just a language, but a comprehensive platform for building reliable applications.&lt;/p&gt;&#xA;&lt;h1 id=&#34;write-once-run-anywhere&#34;&gt;Write Once, Run Anywhere&lt;/h1&gt;&#xA;&lt;p&gt;Java&amp;rsquo;s most celebrated principle is platform independence. The Java Virtual Machine (JVM) serves as an abstraction layer between code and hardware, allowing developers to write code on one system and run it on any platform with a compatible JVM installation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
