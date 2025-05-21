@@ -35,9 +35,12 @@ Core OOP concepts in Java include:
 - **Polymorphism:** Allowing objects to take multiple forms depending on context
 - **Abstraction:** Hiding complex implementation details while exposing necessary functionality
 
-# Strong Typing and Memory Management
+# Strong Typing and Memory Ma
+nagement
 
 Java enforces strict type checking at compile time, catching potential errors before the code ever runs.This reduces runtime errors and improves overall reliability.
 Additionally, Java's automatic memory management through garbage collection eliminates many memory-related issues common in languages like C and C++. Developers don't need to explicitly allocate and deallocate memory, reducing the risk of memory leaks and segmentation faults.
 
 # Exception Handling
+
+Java's robust exception handling mechanism allows for graceful error management:
