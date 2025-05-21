@@ -27,3 +27,5 @@ This simple program will run identically across Windows, macOS, Linux, and other
 # Object-Oriented Programming
 
 Java was designed from the ground up as an object-oriented language. Everything in Java is an object (with some primitive exceptions), encouraging developers to think in terms of real-world entities with attributes and behaviors.
+
+Core OOP concepts in Java include:
