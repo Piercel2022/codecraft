@@ -61,3 +61,5 @@ This structured approach to error handling promotes more reliable applications a
 # Security
 
 Security has always been a priority in Java's design. Features like:
+
+- The Security Manager for defining access policies.
