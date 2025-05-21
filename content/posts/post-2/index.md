@@ -37,4 +37,4 @@ Core OOP concepts in Java include:
 
 # Strong Typing and Memory Management
 
-Java enforces strict type checking at compile time, catching potential errors before the code ever runs.
+Java enforces strict type checking at compile time, catching potential errors before the code ever runs.This reduces runtime errors and improves overall reliability.
