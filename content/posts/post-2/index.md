@@ -25,3 +25,5 @@ public class HelloWorld {
 This simple program will run identically across Windows, macOS, Linux, and other platforms—something revolutionary when Java was first introduced.
 
 # Object-Oriented Programming
+
+Java was designed from the ground up as an object-oriented language.
