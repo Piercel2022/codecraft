@@ -36,3 +36,5 @@ Core OOP concepts in Java include:
 - **Abstraction:** Hiding complex implementation details while exposing necessary functionality
 
 # Strong Typing and Memory Management
+
+Java enforces strict type checking at compile time, catching potential errors before the code ever runs.
