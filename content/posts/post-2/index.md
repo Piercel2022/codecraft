@@ -21,3 +21,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+This simple program will run identically across Windows, macOS, Linux, and other platforms—something revolutionary when Java was first introduced.
+
+# Object-Oriented Programming
