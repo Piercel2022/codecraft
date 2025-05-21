@@ -39,3 +39,5 @@ Core OOP concepts in Java include:
 
 Java enforces strict type checking at compile time, catching potential errors before the code ever runs.This reduces runtime errors and improves overall reliability.
 Additionally, Java's automatic memory management through garbage collection eliminates many memory-related issues common in languages like C and C++. Developers don't need to explicitly allocate and deallocate memory, reducing the risk of memory leaks and segmentation faults.
+
+# Exception Handling
