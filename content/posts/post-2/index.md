@@ -59,3 +59,5 @@ try {
 This structured approach to error handling promotes more reliable applications and better debugging processes.
 
 # Security
+
+Security has always been a priority in Java's design. Features like:
