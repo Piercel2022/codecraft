@@ -32,3 +32,4 @@ Core OOP concepts in Java include:
 
 - **Encapsulation:** Wrapping data and methods into a single unit (class)
 - **Inheritance:** Creating new classes that inherit properties from existing ones
+- **Polymorphism:** Allowing objects to take multiple forms depending on context
