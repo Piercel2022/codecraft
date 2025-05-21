@@ -44,3 +44,14 @@ Additionally, Java's automatic memory management through garbage collection elim
 # Exception Handling
 
 Java's robust exception handling mechanism allows for graceful error management:
+
+try {
+    // Code that might throw an exception
+    FileReader file = new FileReader("nonexistent.txt");
+} catch (FileNotFoundException e) {
+    // Handle the specific exception
+    System.out.println("The specified file was not found.");
+} finally {
+    // Code that always executes
+    System.out.println("This will always run.");
+}
