@@ -92,3 +92,5 @@ The Java Standard Library (Java API) provides implementations for virtually any 
 
 # Backward Compatibility
 
+Java places significant emphasis on backward compatibility. Code written in earlier versions generally continues to work with newer Java releases, protecting investments in existing applications.
+
