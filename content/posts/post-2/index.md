@@ -64,4 +64,5 @@ Security has always been a priority in Java's design. Features like:
 
 - The Security Manager for defining access policies.
 - Bytecode verification before execution.
-- No direct memory manipulation
+- No direct memory manipulation.
+- Strong typing preventing unsafe type conversions
