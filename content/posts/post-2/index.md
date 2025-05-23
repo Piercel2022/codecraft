@@ -82,3 +82,7 @@ class MyRunnable implements Runnable {
 // Creating and starting a thread
 Thread thread = new Thread(new MyRunnable());
 thread.start();
+
+
+This native support for concurrent execution makes Java ideal for applications that need to perform multiple operations simultaneously.
+
