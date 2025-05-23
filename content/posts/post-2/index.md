@@ -86,3 +86,4 @@ thread.start();
 
 This native support for concurrent execution makes Java ideal for applications that need to perform multiple operations simultaneously.
 
+# Rich Standard Library
