@@ -72,3 +72,13 @@ These safeguards make Java particularly suitable for networked applications wher
 # Multithreading Support
 
 Java was designed with concurrency in mind, offering built-in support for multithreaded programming:
+
+class MyRunnable implements Runnable {
+    public void run() {
+        System.out.println("Thread is running");
+    }
+}
+
+// Creating and starting a thread
+Thread thread = new Thread(new MyRunnable());
+thread.start();
