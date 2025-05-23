@@ -70,3 +70,5 @@ Security has always been a priority in Java's design. Features like:
 These safeguards make Java particularly suitable for networked applications where security is paramount.
 
 # Multithreading Support
+
+Java was designed with concurrency in mind, offering built-in support for multithreaded programming:
