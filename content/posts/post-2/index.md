@@ -24,7 +24,7 @@ public class HelloWorld {
 
 This simple program will run identically across Windows, macOS, Linux, and other platforms—something revolutionary when Java was first introduced.
 
-# Object-Oriented Programming
+### Object-Oriented Programming
 
 Java was designed from the ground up as an object-oriented language. Everything in Java is an object (with some primitive exceptions), encouraging developers to think in terms of real-world entities with attributes and behaviors.
 
@@ -35,12 +35,12 @@ Core OOP concepts in Java include:
 - **Polymorphism:** Allowing objects to take multiple forms depending on context
 - **Abstraction:** Hiding complex implementation details while exposing necessary functionality
 
-# Strong Typing and Memory Management
+### Strong Typing and Memory Management
 
 Java enforces strict type checking at compile time, catching potential errors before the code ever runs.This reduces runtime errors and improves overall reliability.
 Additionally, Java's automatic memory management through garbage collection eliminates many memory-related issues common in languages like C and C++. Developers don't need to explicitly allocate and deallocate memory, reducing the risk of memory leaks and segmentation faults.
 
-# Exception Handling
+### Exception Handling
 
 Java's robust exception handling mechanism allows for graceful error management:
 
@@ -57,7 +57,7 @@ try {
 
 This structured approach to error handling promotes more reliable applications and better debugging processes.
 
-# Security
+### Security
 
 Security has always been a priority in Java's design. Features like:
 
@@ -68,7 +68,7 @@ Security has always been a priority in Java's design. Features like:
 
 These safeguards make Java particularly suitable for networked applications where security is paramount.
 
-# Multithreading Support
+### Multithreading Support
 
 Java was designed with concurrency in mind, offering built-in support for multithreaded programming:
 
@@ -85,15 +85,15 @@ thread.start();
 
 This native support for concurrent execution makes Java ideal for applications that need to perform multiple operations simultaneously.
 
-# Rich Standard Library
+### Rich Standard Library
 
 The Java Standard Library (Java API) provides implementations for virtually any common programming task, from data structures to networking, file I/O, database connectivity, and user interface components.
 
-# Backward Compatibility
+### Backward Compatibility
 
 Java places significant emphasis on backward compatibility. Code written in earlier versions generally continues to work with newer Java releases, protecting investments in existing applications.
 
-# Conclusion
+### Conclusion
 
 Java's enduring success stems from these core principles, which together create a language that balances performance, reliability, security, and developer productivity. Whether you're building enterprise applications, Android mobile apps, or big data processing systems, Java's fundamental principles provide a solid foundation for robust software development.
 By understanding and leveraging these core concepts, developers can harness the full power of Java to create scalable, maintainable, and efficient applications that stand the test of time.
