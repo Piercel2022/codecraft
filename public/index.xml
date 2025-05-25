@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Fri, 23 May 2025 16:16:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/post-3/</guid>
-      <description>&lt;h3 id=&#34;building-scalable-maintainable-and-efficient-applications&#34;&gt;Building Scalable, Maintainable, and Efficient Applications&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;power.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;&#xA;&lt;p&gt;Java has stood the test of time as one of the world&amp;rsquo;s most robust programming languages, powering everything from enterprise applications to Android apps.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;building-scalable-maintainable-and-efficient-applications&#34;&gt;Building Scalable, Maintainable, and Efficient Applications&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;power.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;&#xA;&lt;p&gt;Java has stood the test of time as one of the world&amp;rsquo;s most robust programming languages, powering everything from enterprise applications to Android apps. However, truly harnessing Java&amp;rsquo;s full potential requires more than just knowing the syntax — it demands understanding architectural patterns, performance optimization techniques, and modern development practices that create applications capable of handling real-world challenges.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
