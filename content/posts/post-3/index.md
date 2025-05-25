@@ -14,4 +14,4 @@ featured_image = "power.png"
 
 #### Introduction 
 
-Java has stood the test of time as one of the world's most robust programming languages, powering everything from enterprise applications to Android apps.
+Java has stood the test of time as one of the world's most robust programming languages, powering everything from enterprise applications to Android apps. 
